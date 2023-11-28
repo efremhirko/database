@@ -1,2 +1,3 @@
 # database
-database langueges
+the purpose of this code to write the database languages 
+like DDL, SDL, SQL, DML... 
